@@ -1,8 +1,8 @@
 <template>
 	<header>
-		<nav class="columns is-justify-content-space-evenly is-align-items-center">
+		<nav class="columns is-justify-content-space-around is-align-items-center">
 			<div class="nav-logo-container column is-narrow is-align-self-flex-end">
-				<img class="nav-logo" src="../assets/Tweakful-Logo.svg">
+				<img class="nav-logo" alt="Tweakful Logo" src="../assets/Tweakful-Logo.svg">
 			</div>
 			<div class="nav-links-container column is-one-third">
 				<div class="nav-link-links is-flex is-justify-content-space-evenly">
