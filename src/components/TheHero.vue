@@ -3,7 +3,7 @@
       <div class="hero-texts">
         <div class="hero-writeup is-flex-shrink-1">
           <h1 class="hero-writeup-heading">
-            This headline is the gist of the Your whole Website 
+            This headline is the <br> gist of the Your <br> whole Website 
           </h1>
           <p class="hero-writeup-paragraph">
             And the description of hero section is follow up message after the punch of a great headline. So, make it short, simple, descriptive and to the point.
