@@ -51,6 +51,10 @@
 		gap: .8rem;
 	}
 
+	.processes-2 {
+		margin-left: 2rem;
+	}
+
 	.processes-4 {
 		margin-top: 1.1rem;
 		align-self: center;
