@@ -50,7 +50,9 @@
     letter-spacing: -1.16px;
     line-height: 1.4;
     font-size: 3rem;
-    /*margin-bottom: 1.5rem;*/
+    width: 110%;
+    display: inline-block;
+    margin-bottom: 1rem;
   }
 
   .hero-writeup-paragraph, .hero-cta-text {
