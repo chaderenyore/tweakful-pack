@@ -97,6 +97,7 @@
 <style scoped>
 	.benefits-section-1 {
 		margin-top: 9rem;
+		margin-bottom: 11rem;
 	}
 
 	.benefit-wrapper {
