@@ -22,7 +22,7 @@
 
 <style scoped>
 	.success-wrapper {
-		margin-top: 11rem;
+		margin-top: 13rem;
 		margin-bottom: 11rem;
 	}
 

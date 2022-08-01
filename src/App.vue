@@ -3,6 +3,7 @@
   <TheHero />
   <TheBenefits />
   <SuccessStory />
+  <TheProccesses />
 </template>
 
 <script setup>
@@ -12,6 +13,7 @@ import TheHeader from './components/TheHeader.vue';
 import TheHero from './components/TheHero.vue';
 import TheBenefits from './components/TheBenefits.vue';
 import SuccessStory from './components/SuccessStory.vue';
+import TheProccesses from './components/TheProccesses.vue';
 
 </script>
 
