@@ -14,7 +14,7 @@
 				</div>
 			</div>
 			<div class="story-box__image">
-				<img src="../assets/reviewer.svg" alt="Woman Case Study">
+				<img src="../assets/reviewer.png" alt="Woman Case Study">
 			</div>
 		</div>
 	</div>

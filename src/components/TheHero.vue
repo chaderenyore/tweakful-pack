@@ -18,7 +18,7 @@
         </div>
       </div>
       <div class="hero-image">
-        <img class="nav-logo" src="../assets/ceo-photo.svg">
+        <img class="nav-logo" src="../assets/ceo-photo.png">
       </div>
   </section>
 </template>

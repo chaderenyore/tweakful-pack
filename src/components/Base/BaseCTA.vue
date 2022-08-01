@@ -55,11 +55,12 @@
 	 	color: var(--text-primary);
 	 	width: 85%;
 	 	margin: auto;
-	 	margin-bottom: 1.2rem;
+	 	margin-bottom: 2.3rem;
 	}
 
 	.cta-button__wrapper {
 		text-align: center;
+		margin-bottom: 2.3rem;
 
 	}
 
@@ -77,6 +78,7 @@
   	}
 
   	.cta-brands {
+  		margin-top: 1rem;
   		width: 90%;
   		margin: auto;
   	}
