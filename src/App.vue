@@ -4,6 +4,7 @@
   <TheBenefits />
   <SuccessStory />
   <TheProccesses />
+  <BaseCTA />
 </template>
 
 <script setup>
@@ -14,6 +15,7 @@ import TheHero from './components/TheHero.vue';
 import TheBenefits from './components/TheBenefits.vue';
 import SuccessStory from './components/SuccessStory.vue';
 import TheProccesses from './components/TheProccesses.vue';
+import BaseCTA from './components/Base/BaseCTA.vue';
 
 </script>
 
